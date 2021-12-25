@@ -1,1 +1,296 @@
-Name	Set	ImageFile	Rarity	CardTextAccordion Player	Premiere	accordion_player	Common	Back Alley	Premiere	back_alley	Uncommon	Barrel	Premiere	barrel1	Common	Bass Player	Premiere	bass_player	Common	Behemoth	Premiere	behemoth	Common	Big Witch	Premiere	big_witch	Uncommon	Black Cat	Premiere	black_cat	Rare	Bun-ny!	Premiere	bun-ny	Rare	Castle Finklestein	Premiere	castle_finklestein	Uncommon	Christmas Casket	Premiere	christmas_casket	Ultra-Rare	Christmas Tree Bats	Premiere	christmas_tree_bats	Uncommon	Clown	Premiere	clown	Uncommon	Corpse Dad	Premiere	corpse_dad	Uncommon	Corpse Kid	Premiere	corpse_kid	Common	Corpse Mom	Premiere	corpse_mom	Uncommon	Cyclops	Premiere	cyclops	Common	Dark Alley	Premiere	dark_alley	Rare	Dead Head	Premiere	dead_head	Uncommon	Deadly Nightshade	Premiere	deadly_nightshade	Uncommon	Decomposing Guy	Premiere	decomposing_guy	Common	Delightful Hat	Premiere	delightful_hat	Uncommon	Devil	Premiere	devil	Rare	Double Dead	Premiere	double_dead	Common	Dr. Finklestein - Brainy Inventor	Premiere	eager_anaconda	Ultra-Rare	Dr. Finklestein - Mad Scientist	Premiere	easter_bunny	Common	Eager Anaconda	Premiere	eureka	Rare	Easter Bunny	Premiere	everybody_scream	Rare	Eureka!	Premiere	fear_the_reaper	Rare	Everybody Scream!	Premiere	fender_bender	Rare	Fear the Reaper	Premiere	fetch	Rare	Fender Bender	Premiere	finklestein1	Uncommon	Fetch	Premiere	finklestein2	Common	Finklestein Hall	Premiere	finklestein_hall	Common	Fire!	Premiere	fire	Common	Gate Keeper	Premiere	gate_keeper	Rare	Halloween Plans	Premiere	halloween_plans	Common	Halloweentown Gates	Premiere	halloweentown_gates	Uncommon	Hanging Tree	Premiere	hanging_tree	Rare	Harlequin Demon	Premiere	harlequin_demon	Uncommon	"Hello, Oogie"	Premiere	hello_oogie	Rare	Hiding Under Your Bed	Premiere	hiding_under_bed	Rare	Hitch a Ride	Premiere	hitch_a_ride	Common	Hyde and Seek	Premiere	hyde_and_seek	Common	I am not the one	Premiere	i_am_not_the_one	Rare	I am the Pumpkin King!	Premiere	i_am_the_pumpkin_king	Ultra-Rare	I never realized	Premiere	i_never_realized	Common	I told you!	Premiere	i_told_you	Uncommon	I wanna do it!	Premiere	i_wanna_do_it	Uncommon	Igor	Premiere	igor	Common	I'm not the dumb one	Premiere	im_not_the_dumb_one	Uncommon	I'm Santa Claus!	Premiere	im_santa_claus	Ultra-Rare	I'm the Boogie Man!	Premiere	im_the_boogie_man	Common	"It's a phase, my dear"	Premiere	its_a_phase_my_dear	Rare	It's time to party!	Premiere	its_time_to_party	Rare	It's Time You Begun	Premiere	its_time_you_begun	Rare	Jack in the Box	Premiere	jack_in_the_box	Uncommon	Jack Skellington - Demon of Light	Premiere	jack1	Ultra-Rare	Jack Skellington - Master of Fright	Premiere	jack2	Rare	Jack Skellington - The Pumpkin King	Premiere	jack3	Common	Jack's Bedroom	Premiere	jacks_bedroom	Uncommon	Jack's House	Premiere	jacks_house	Common	Jewel	Premiere	jewel	Rare	Jingle Bells	Premiere	jingle_bells	Common	Jumbo Treat Bag	Premiere	jumbo_treat_bag	Common	Kidnap Mr. Sandy Claws	Premiere	kidnap_mr_sandy_claws	Rare	Let's Play!	Premiere	lets_play	Uncommon	Little Witch	Premiere	little_witch	Uncommon	Lock	Premiere	lock1	Common	Look what you've done	Premiere	look_what_youve_done	Ultra-Rare	Mad Genius	Premiere	mad_genius	Uncommon	Making Christmas	Premiere	making_christmas	Uncommon	Marie Antoinette Doll	Premiere	marie_antoinette	Common	Master! The Plans!	Premiere	master_the_plans	Common	Mayor-mobile	Premiere	mayor-mobile	Common	Mellow Trio	Premiere	mellow_trio	Common	Monster Under the Bed	Premiere	monster_under_bed	Uncommon	Monster Under the Stairs	Premiere	monster_under_stairs	Uncommon	Moody Mayor	Premiere	moody_mayor	Common	Mournful Howl	Premiere	mournful_howl	Rare	Mr. Hyde	Premiere	mr_hyde	Common	Mr. Hyde II	Premiere	mr_hyde_ii	Uncommon	Mr. Hyde III	Premiere	mr_hyde_iii	Rare	Mummy Boy	Premiere	mummy_boy	Common	My Fantasies	Premiere	my_fantasies	Common	Mystic Cauldron	Premiere	mystic_cauldron	Rare	Nightmare Before Christmas	Premiere	nightmare_before_christmas	Promo Card	Nutcracker	Premiere	nutcracker	Common	Oogie Boogie - Eight Ball	Premiere	oogie1	Ultra-Rare	Oogie Boogie - Gamblin' Boogie Man	Premiere	oogie2	Rare	Oogie Boogie - Meanest Guy Around	Premiere	oogie3	Common	Oogie's Dice	Premiere	oogies_dice	Uncommon	Oogie's Lair	Premiere	oogies_lair	Common	Oogie's turn to boogie	Premiere	oogies_turn_to_boogie	Uncommon	Organ Donor	Premiere	organ_donor	Uncommon	Public Transportation	Premiere	public_transportation	Common	Pull Yourself Together	Premiere	pull_yourself_together	Common	Pumpkin Patch	Premiere	pumpkin_patch	Rare	Putrid Playmates	Premiere	putrid_playmates	Rare	Reaper	Premiere	reaper	Rare	Road Kill	Premiere	road_kill	Common	Sackful of Mischief	Premiere	sackful_of_mischief	Ultra-Rare	Sally - Shy Creature	Premiere	sally1	Common	Sally - Skilled Alchemist	Premiere	sally2	Ultra-Rare	Sally's Room	Premiere	sallys_room	Common	Sandy Claws	Premiere	sandy_claws	Uncommon	Sandy Claws Outfit	Premiere	sandy_claws_outfit	Common	Sax Player	Premiere	sax_player	Common	Say It Twice	Premiere	say_it_twice	Rare	Scared Stiff	Premiere	scared_stiff	Rare	Scary Bed	Premiere	scary_bed	Ultra-Rare	Scary Teddy	Premiere	scary_teddy	Uncommon	Scorpion Surprise	Premiere	scorpion_surprise	Uncommon	Search Lights	Premiere	search_lights	Uncommon	Shadow on the Moon	Premiere	shadow_on_the_moon	Ultra-Rare	Shock	Premiere	shock1	Common	Skeletal Reindeer	Premiere	skeletal_reindeer	Uncommon	Something's up with Jack	Premiere	somethings_up_with_jack	Uncommon	Sound of Rollin' Dice	Premiere	sound_of_rollin_dice	Common	Takeoff Ramp	Premiere	takeoff_ramp	Common	That's our Job	Premiere	thats_our_job	Uncommon	The best I can	Premiere	the_best_i_can	Uncommon	The Crypt	Premiere	the_crypt	Uncommon	The Fountain	Premiere	the_fountain	Rare	The Graveyard	Premiere	the_graveyard	Uncommon	The Laboratory	Premiere	the_laboratory	Uncommon	The Mayor - Elected Official	Premiere	mayor1	Common	The Mayor - Lugubrious Leader	Premiere	mayor2	Rare	The Tree House	Premiere	the_tree_house	Uncommon	The Well	Premiere	the_well	Common	This is Halloween!	Premiere	this_is_halloween	Rare	Three of a Kind	Premiere	three_of_a_kind	Common	Throw me a bone	Premiere	throw_me_a_bone	Common	Town Hall	Premiere	town_hall	Uncommon	Town Meeting!	Premiere	town_meeting	Uncommon	Town Square	Premiere	town_square	Common	Tree Circle	Premiere	tree_circle	Uncommon	Tub of Terror	Premiere	tub_of_terror	Rare	Twilight Sun	Premiere	twilight_sun	Rare	Undead Duck	Premiere	undead_duck	Rare	Undersea Gal	Premiere	undersea_gal	Uncommon	Vampire Baron	Premiere	vampire_baron	Uncommon	Vampire Count	Premiere	vampire_count	Uncommon	Vampire Lord	Premiere	vampire_lord	Uncommon	Vampire Prince	Premiere	vampire_prince	Rare	What Have I Done?	Premiere	what_have_i_done	Uncommon	Wheel of Torture	Premiere	wheel_of_torture	Ultra-Rare	Winged Demon	Premiere	winged_demon	Rare	Witches' Nook	Premiere	witches_nook	Common	Wolfman	Premiere	wolfman	Uncommon	Wreath of Wrath	Premiere	wreath_of_wrath	Rare	Zero	Premiere	zero	Uncommon	
+Name	Set	ImageFile	Type	Scare_Threshold	Rarity	CardText
+A Good Scare	ChristmasTown	a_good_scare	Surprises	0	Uncommon	
+Accordion Player	Premiere	accordion_player	Character	1	Common	
+Ain't Goin' Nowhere	ChristmasTown	aint_goin_nowhere	Surprises	1	Rare	
+Alas! Poor Jack!	ChristmasTown	alas_poor_jack	Surprises	0	Uncommon	
+Alto Ghost	ChristmasTown	alto_ghost	Character	1	Common	
+Armed Assault	ChristmasTown	armed_assault	Surprises	1	Uncommon	
+Back Alley	Premiere	back_alley	Locale	2	Uncommon	FUNCTION: Draw 2 Cards and Move 3 Cards
+Baritone Ghost	ChristmasTown	baritone_ghost	Character	1	Rare	
+Barrel - Dopey Trick-or-Treater	Tournament	barrel2	Character	1	Fixed	
+Barrel - Guinea Pig	ChristmasTown	barrel3	Character	1	Uncommon	
+Barrel - Little Skeleton	Premiere	barrel1	Character	1	Common	
+Barry the Elf	ChristmasTown	barry	Character	0	Rare	
+Bass Ghost	ChristmasTown	bass_ghost	Character	1	Uncommon	
+Bass Player	Premiere	bass_player	Character	1	Common	
+Beaker of Joy	ChristmasTown	beaker_of_joy	Creations	1	Rare	
+Behemoth	Premiere	behemoth	Character	2	Common	
+Big Witch	Premiere	big_witch	Character	2	Uncommon	
+Black Cat	Premiere	black_cat	Character	1	Rare	
+Bone Daddy	ChristmasTown	bone_daddy	Surprises	0	Uncommon	
+Bun-ny!	Premiere	bun-ny	Surprises	0	Rare	
+Candy Shop	ChristmasTown	candy_shop	Locale	2	Uncommon	BONUS: Whenever the opponent to your left plays a Creation, Draw 1 Card. 
+Captive Audience	ChristmasTown	captive_audience	Surprises	2	Rare	
+Carousel	ChristmasTown	carousel	Locale	3	Common	BONUS: After you perform a Function, you may discard up to 2 cards from your hand, and then draw an equal number of new cards.
+Castle Finklestein	Premiere	castle_finklestein	Locale	5	Uncommon	FUNCTION: Discard 1 Card from hand to Add 5p
+Choo Choo Train	ChristmasTown	choo_choo_train	Surprises	0	Common	
+Christmas Cafe	ChristmasTown	christmas_cafe	Locale	2	Promo Card	BONUS: While the Cafe is Active, whenever you play an Elf here, every player may Draw 1 Card.
+Christmas Casket	Premiere	christmas_casket	Creations	6	Ultra-Rare	
+Christmas Equation	ChristmasTown	christmas_equation	Surprises	1	Rare	
+Christmas Supplies	ChristmasTown	christmas_supplies	Creations	6	Common	
+Christmas Town Gates	ChristmasTown	christmas_town_gates	Surprises	0	Common	
+Christmas Tree Bats	Premiere	christmas_tree_bats	Creations	3	Uncommon	
+Chucky the Elf	ChristmasTown	chucky	Character	0	Common	
+Claw Catapult	ChristmasTown	claw_catapult	Creations	3	Rare	
+Clown	Premiere	clown	Character	2	Uncommon	
+Conversations Worth Having	ChristmasTown	conversations	Surprises	1	Rare	
+Cookie Factory	ChristmasTown	cookie_factory	Locale	2	Uncommon	BONUS: During your turn, you may discard a Creation from your hand to Draw 1 Card.
+Corpse Dad	Premiere	corpse_dad	Character	1	Uncommon	
+Corpse Family Bonding	ChristmasTown	corpse_family_bonding	Surprises	1	Common	
+Corpse Kid	Premiere	corpse_kid	Character	2	Common	
+Corpse Mom	Premiere	corpse_mom	Character	1	Uncommon	
+Cute Puppy	ChristmasTown	cute_puppy	Creations	-3	Common	
+Cyclops	Premiere	cyclops	Character	1	Common	
+Dark Alley	Premiere	dark_alley	Surprises	1	Rare	
+Dead Head	Premiere	dead_head	Creations	3	Uncommon	
+Dead Rooster	ChristmasTown	dead_rooster	Character	1	Rare	
+Deadly Nightshade	Premiere	deadly_nightshade	Surprises	0	Uncommon	
+Decomposing Guy	Premiere	decomposing_guy	Character	1	Common	
+Delightful Hat	Premiere	delightful_hat	Creations	4	Uncommon	
+Demented Shadow	ChristmasTown	demented_shadow	Character	1	Uncommon	
+Depraved Offering	ChristmasTown	depraved_offering	Surprises	0	Uncommon	
+Devil	Premiere	devil	Character	2	Rare	
+Dissected Teddy	ChristmasTown	dissected_teddy	Creations	1	Uncommon	
+Doll Factory	ChristmasTown	doll_factory	Locale	3	Uncommon	BONUS: Whenever you play a Creation, Draw 1 Card.
+Domain of Shadows	ChristmasTown	domain_of_shadows	Surprises	1	Rare	
+Double Dead	Premiere	double_dead	Surprises	0	Common	
+Dr. Finklestein - Brainy Inventor	Premiere	finklestein1	Character	2	Ultra-Rare	
+Dr. Finklestein - Desperate Lover	ChristmasTown	finklestein2	Character	2	Rare	
+Dr. Finklestein - Mad Scientist	Premiere	finklestein3	Character	2	Common	
+Droopy Cane	ChristmasTown	droopy_cane	Creations	1	Uncommon	
+Eager Anaconda	Premiere	eager_anaconda	Creations	5	Rare	
+Easter Bunny	Premiere	easter_bunny	Character	-1	Rare	
+Easter Door	ChristmasTown	easter_door	Surprises	0	Common	
+Eddy the Elf	ChristmasTown	eddy	Character	0	Common	
+Electric Lights	ChristmasTown	electric_lights	Surprises	0	Common	
+Elven Bedchamber	ChristmasTown	elven_bedchamber	Locale	4	Rare	BONUS: Whenever an Elf is discarded from your Christmas Town, Draw 1 Card.
+Eureka!	Premiere	eureka	Surprises	0	Rare	
+Everybody make a scene	Tournament	everybody_make_a_scene	Surprises	2	Fixed	
+Everybody Scream!	Premiere	everybody_scream	Surprises	0	Rare	
+Evil Eye	ChristmasTown	evil_eye	Surprises	1	Common	
+Extendable Arm	ChristmasTown	extendable_arm	Creations	4	Ultra-Rare	
+Eyes Glowing Red	ChristmasTown	eyes_glowing_red	Surprises	0	Uncommon	
+Falling to Pieces	ChristmasTown	falling_to_pieces	Surprises	0	Rare	
+Fear the Reaper	Premiere	fear_the_reaper	Surprises	1	Rare	
+Fender Bender	Premiere	fender_bender	Creations	3	Uncommon	
+Fetch	Premiere	fetch	Surprises	0	Common	
+Fingers Like Snakes	ChristmasTown	fingers_like_snakes	Surprises	0	Uncommon	
+Finklestein Hall	Premiere	finklestein_hall	Locale	0*	Common	STARTING HAND: 7 Cards, FUNCTION: Draw 3 Cards, FUNCTION: Add 2p, FUNCTION: Move 2 Cards
+Fire!	Premiere	fire	Surprises	5	Common	
+Formaldetoys	ChristmasTown	formaldetoys	Creations	1	Uncommon	
+Frog's Breath	ChristmasTown	frogs_breath	Surprises	0	Common	
+Gate Keeper	Premiere	gate_keeper	Surprises	1	Rare	
+Give It All Up	ChristmasTown	give_it_all_up	Surprises	1	Ultra-Rare	
+Give Up the Ghost	ChristmasTown	give_up_the_ghost	Surprises	1	Rare	
+Grand Marshall	ChristmasTown	grand_marshall	Surprises	0	Common	
+Guillotine Area	ChristmasTown	guillotine_area	Locale	5	Uncommon	FUNCTION: Discard 1 Character from this Locale to Add 2p and force each opponent to discard 1 Character of his choice from his own Halloweentown.
+Halloween Plans	Premiere	halloween_plans	Surprises	0	Common	
+Halloweentown Bell	ChristmasTown	halloweentown_bell	Creations	5	Common	
+Halloweentown Gates	Premiere	halloweentown_gates	Surprises	2	Uncommon	
+Hanging Tree	Premiere	hanging_tree	Character	3	Rare	
+Harlequin Demon	Premiere	harlequin_demon	Character	2	Uncommon	
+He can fit down here!	ChristmasTown	he_can_fit_down_here	Surprises	0	Uncommon	
+Headhunter	ChristmasTown	headhunter	Surprises	1	Uncommon	
+Hello, Oogie	Premiere	hello_oogie	Surprises	3	Rare	
+Here Comes Sandy Claws	ChristmasTown	here_comes_sandy	Creations	4	Rare	
+Hiding Under Your Bed	Premiere	hiding_under_bed	Surprises	0	Rare	
+Hitch a Ride	Premiere	hitch_a_ride	Surprises	0	Common	
+Holly Jolly Roger	ChristmasTown	holly_jolly_roger	Creations	4	Common	
+House of Cards	Tournament	house_of_cards	Creations	2	Fixed	
+How dare you!	ChristmasTown	how_dare_you	Surprises	0	Rare	
+Hyde and Seek	Premiere	hyde_and_seek	Surprises	0	Common	
+I am not the one	Premiere	i_am_not_the_one	Surprises	0	Rare	
+I am the Pumpkin King!	Premiere	i_am_the_pumpkin_king	Surprises	0	Ultra-Rare	
+I Can't Believe My Eyes	ChristmasTown	i_cant_believe_my_eyes	Surprises	1	Rare	
+I can't make decisions!	ChristmasTown	i_cant_make_decisions	Surprises	1	Uncommon	
+I never realized	Premiere	i_never_realized	Surprises	0	Common	
+I think I've got it	Tournament	i_think_ive_got_it	Surprises	0	Fixed	
+I told you!	Premiere	i_told_you	Surprises	1	Uncommon	
+I wanna do it!	Premiere	i_wanna_do_it	Surprises	1	Uncommon	
+I want it for my own	ChristmasTown	i_want_it_for_my_own	Surprises	2	Common	
+Iggy the Elf	ChristmasTown	iggy	Character	0	Uncommon	
+Igor	Premiere	igor	Character	1	Common	
+I'm not the dumb one	Premiere	im_not_the_dumb_one	Surprises	1	Uncommon	
+I'm Santa Claus!	Premiere	im_santa_claus	Surprises	1	Ultra-Rare	
+I'm the Boogie Man!	Premiere	im_the_boogie_man	Surprises	0	Common	
+It's a phase, my dear	Premiere	its_a_phase_my_dear	Surprises	0	Rare	
+It's Alive!	ChristmasTown	its_alive	Surprises	1	Rare	
+It's time to party!	Premiere	its_time_to_party	Surprises	1	Rare	
+It's Time You Begun	Premiere	its_time_you_begun	Surprises	0	Rare	
+Jack in the Box	Premiere	jack_in_the_box	Creations	4	Uncommon	
+Jack Skellington - Demon of Light	Premiere	jack1	Character	6	Ultra-Rare	
+Jack Skellington - Explorer of Unknown Realms	ChristmasTown	jack4	Character	2	Common	
+Jack Skellington - Master of Fright	Premiere	jack2	Character	5	Rare	
+Jack Skellington - Motivational Spooker	ChristmasTown	jack5	Character	4	Ultra-Rare	
+Jack Skellington - Santa Jack	ChristmasTown	jack6	Character	3	Promo Card	
+Jack Skellington - The Pumpkin King	Premiere	jack3	Character	3	Common	
+Jack's Bedroom	Premiere	jacks_bedroom	Locale	4	Uncommon	FUNCTION: Draw until you have a number of cards in your hand equal to your Starting Hand (as indicated on your Starting Locale).
+Jack's House	Premiere	jacks_house	Locale	0*	Common	STARTING HAND: 7 Cards, FUNCTION: Draw 2 Cards, FUNCTION: Add 2p, FUNCTION: Move 4 Cards
+Jewel	Premiere	jewel	Character	1	Rare	
+Jingle Bells	Premiere	jingle_bells	Creations	4	Common	
+Jumbo Treat Bag	Premiere	jumbo_treat_bag	Creations	5	Common	
+Juxtaposition	ChristmasTown	juxtaposition	Surprises	1	Uncommon	
+Kidnap Mr. Sandy Claws	Premiere	kidnap_mr_sandy_claws	Surprises	1	Rare	
+Languid Larry	ChristmasTown	languid_larry	Character	0	Rare	
+Let's Play!	Premiere	lets_play	Surprises	1	Uncommon	
+Little Henchmen	ChristmasTown	little_henchmen	Surprises	1	Common	
+Little Witch	Premiere	little_witch	Character	1	Uncommon	
+Loading Zone	ChristmasTown	loading_zone	Locale	4	Common	BONUS: Whenever you perform a Function, you may Search 4, 1 Creation.
+Lock - Impish Trick-or-Treater	Tournament	lock2	Character	1	Fixed	
+Lock - Little Devil	Premiere	lock1	Character	1	Common	
+Lock - Savage Captor	ChristmasTown	lock3	Character	1	Uncommon	
+Loco-motive	ChristmasTown	loco-motive	Creations	3	Common	
+Look what you've done	Premiere	look_what_youve_done	Surprises	1	Ultra-Rare	
+Lovely!	ChristmasTown	lovely	Surprises	1	Uncommon	
+Mad Genius	Premiere	mad_genius	Surprises	1	Uncommon	
+Magical Journey	ChristmasTown	magical_journey	Surprises	0	Common	
+Making Christmas	Premiere	making_christmas	Surprises	0	Uncommon	
+Marie Antoinette Doll	Premiere	marie_antoinette	Creations	3	Common	
+Master! The Plans!	Premiere	master_the_plans	Surprises	1	Common	
+Mayor-mobile	Premiere	mayor-mobile	Locale	0*	Common	STARTING HAND: 6 Cards, FUNCTION: Draw 3 Cards, FUNCTION: Add 2p, FUNCTION: Move 5 Cards
+Mellow Trio	Premiere	mellow_trio	Surprises	1	Common	
+Mirror, Mirror	ChristmasTown	mirror_mirror	Surprises	0	Promo Card	
+Mission of Menace	ChristmasTown	mission_of_menace	Surprises	1	Uncommon	
+Mistletoe	ChristmasTown	mistletoe	Surprises	0	Common	
+Monster Under the Bed	Premiere	monster_under_bed	Character	3	Uncommon	
+Monster Under the Stairs	Premiere	monster_under_stairs	Character	2	Uncommon	
+Moody Mayor	Premiere	moody_mayor	Surprises	0	Common	
+Morning Rounds	ChristmasTown	morning_rounds	Surprises	0	Rare	
+Most Blood Drained	ChristmasTown	most_blood_drained	Surprises	1	Uncommon	
+Mournful Howl	Premiere	mournful_howl	Surprises	1	Rare	
+Mr. Hyde	Premiere	mr_hyde	Character	1	Common	
+Mr. Hyde II	Premiere	mr_hyde_ii	Character	1	Uncommon	
+Mr. Hyde III	Premiere	mr_hyde_iii	Character	1	Rare	
+Mrs. Claus	ChristmasTown	mrs_claus	Character	0	Uncommon	
+Mummy Boy	Premiere	mummy_boy	Character	1	Common	
+My Fantasies	Premiere	my_fantasies	Surprises	0	Common	
+Mystic Cauldron	Premiere	mystic_cauldron	Surprises	0	Rare	
+Nelly the Elf	ChristmasTown	nelly	Character	0	Uncommon	
+Night of Festivities	ChristmasTown	night_of_festivities	Surprises	1	Rare	
+Nightmare Before Christmas	Premiere	nightmare_before_christmas	Surprises	0	Promo Card	
+Nothing Underneath	ChristmasTown	nothing_underneath	Surprises	1	Rare	
+Nutcracker	Premiere	nutcracker	Creations	3	Common	
+Old Sparkly	Tournament	old_sparkly	Creations	5	Fixed	
+Oogie Boogie - Eight Ball	Premiere	oogie1	Character	6	Ultra-Rare	
+Oogie Boogie - Gamblin' Boogie Man	Premiere	oogie2	Character	5	Rare	
+Oogie Boogie - Meanest Guy Around	Premiere	oogie3	Character	4	Common	
+Oogie Boogie - Voracious Villain	ChristmasTown	oogie4	Character	3	Rare	
+Oogie's Dice	Premiere	oogies_dice	Creations	4	Uncommon	
+Oogie's Lair	Premiere	oogies_lair	Locale	0*	Common	STARTING HAND: 5 Cards, FUNCTION: Draw 2 Cards, FUNCTION: Add 3p, FUNCTION: Move 1 Card
+Oogie's turn to boogie	Premiere	oogies_turn_to_boogie	Surprises	0	Uncommon	
+Organ Donor	Premiere	organ_donor	Surprises	1	Uncommon	
+Parasols	ChristmasTown	parasols	Surprises	2	Rare	
+Pauly the Elf	ChristmasTown	pauly	Character	0	Common	
+Penguin Rally	ChristmasTown	penguin_rally	Surprises	1	Rare	
+Public Transportation	Premiere	public_transportation	Surprises	0	Common	
+Pull Yourself Together	Premiere	pull_yourself_together	Surprises	1	Common	
+Pumpkin Patch	Premiere	pumpkin_patch	Locale	6	Rare	FUNCTION: Place 1 Character (who is at this Locale) face down beneath this Locale to Add 6p
+Putrid Playmates	Premiere	putrid_playmates	Surprises	1	Rare	
+Ravenous Fiend	ChristmasTown	ravenous_fiend	Surprises	0	Rare	
+Reaper	Premiere	reaper	Character	3	Rare	
+Renowned Talents	ChristmasTown	renowned_talents	Surprises	1	Uncommon	
+Road Kill	Premiere	road_kill	Creations	3	Common	
+Ruptured Berry	ChristmasTown	ruptured_berry	Creations	1	Uncommon	
+Sackful of Mischief	Premiere	sackful_of_mischief	Surprises	1	Ultra-Rare	
+Safety in Numbers	ChristmasTown	safety_in_numbers	Surprises	1	Common	
+Sally - Restless Spirit	ChristmasTown	sally3	Character	2	Ultra-Rare	
+Sally - Shy Creature	Premiere	sally1	Character	2	Common	
+Sally - Skilled Alchemist	Premiere	sally2	Character	2	Ultra-Rare	
+Sally's Arm	ChristmasTown	sallys_arm	Character	1	Uncommon	
+Sally's Leg	ChristmasTown	sallys_leg	Character	1	Uncommon	
+Sally's Room	Premiere	sallys_room	Locale	2	Common	FUNCTION: Add 2p and Move 3 Cards
+Same Routine	ChristmasTown	same_routine	Surprises	0	Promo Card	
+Sandy Claws	Premiere	sandy_claws	Character	0	Uncommon	
+Sandy Claws Outfit	Premiere	sandy_claws_outfit	Creations	6	Common	
+Santa Claus	ChristmasTown	santa_claus	Character	0	Common	
+Santa's House	ChristmasTown	santas_house	Locale	1	Uncommon	BONUS: While Santa is here, Santa’s Workshop and each of your Christmas Town Factories require 1 less Christmas Character to become Active.
+Santa's Workshop	ChristmasTown	santas_workshop	Locale	5	Ultra-Rare	BONUS: At the start of the End Phase, if you have no cards left in your hand, Draw 4 Cards.
+Sax Player	Premiere	sax_player	Character	1	Common	
+Say It Twice	Premiere	say_it_twice	Surprises	2	Rare	
+Scared Stiff	Premiere	scared_stiff	Surprises	0	Rare	
+Scary Bed	Premiere	scary_bed	Locale	3	Ultra-Rare	FUNCTION: Place up to 2 cards from your hand face down beneath the Scary Bed, and then Add 2p for each card you just placed.
+Scary Staircase	ChristmasTown	scary_staircase	Locale	2	Uncommon	FUNCTION: Discard up to 2 cards from your hand, and then draw 3 cards for every card you just discarded.
+Scary Teddy	Premiere	scary_teddy	Creations	4	Uncommon	
+Scorpion Surprise	Premiere	scorpion_surprise	Creations	4	Uncommon	
+Search Lights	Premiere	search_lights	Surprises	3	Uncommon	
+Series of Experiments	ChristmasTown	series_of_experiments	Surprises	1	Uncommon	
+Sewing Hut	ChristmasTown	sewing_hut	Locale	3	Uncommon	FUNCTION: Add 1p for every Active Locale in your Halloweentown (not including this Locale).
+Shadow on the Moon	Premiere	shadow_on_the_moon	Surprises	-1	Ultra-Rare	
+Shock - Bossy Trick-or-Treater	Tournament	shock2	Character	1	Fixed	
+Shock - Little Hag	Premiere	shock1	Character	1	Common	
+Shock - Mad Schemer	ChristmasTown	shock3	Character	1	Uncommon	
+Siamese Shadow	ChristmasTown	siamese_shadow	Character	2	Common	
+Skating Pond	ChristmasTown	skating_pond	Locale	2	Common	BONUS: Whenever you perform a Function, you may discard 1 card from your hand to Move 2 different Characters once each.
+Skeletal Reindeer	Premiere	skeletal_reindeer	Creations	6	Uncommon	
+Snake & Spider Stew	Tournament	snake_and_spider	Creations	6	Fixed	
+Snow Fort	ChristmasTown	snow_fort	Locale	4	Common	BONUS: While the Snow Fort is Active, whenever you play an Elf here, each opponent must discard 1 Elf of his choice from his own Christmas Town.
+Snowmobile	ChristmasTown	snowmobile	Surprises	1	Common	
+Someplace New	ChristmasTown	someplace_new	Surprises	1	Rare	
+Something's up with Jack	Premiere	somethings_up_with_jack	Surprises	0	Uncommon	
+Soprano Ghost	ChristmasTown	soprano_ghost	Character	1	Common	
+Sound of Rollin' Dice	Premiere	sound_of_rollin_dice	Surprises	1	Common	
+Sound the Alarms!	ChristmasTown	sound_the_alarms	Surprises	0	Common	
+Spider Flake	ChristmasTown	spider_flake	Creations	1	Uncommon	
+Subordinate Claus	ChristmasTown	subordinate_claus	Surprises	0	Common	
+Suzy the Elf	ChristmasTown	suzy	Character	0	Common	
+Takeoff Ramp	Premiere	takeoff_ramp	Creations	5	Common	
+Tenor Ghost	ChristmasTown	tenor_ghost	Character	1	Common	
+That's our Job	Premiere	thats_our_job	Surprises	2	Uncommon	
+The Bakery	ChristmasTown	the_bakery	Locale	1	Common	BONUS: Whenever you perform a Search, add 1 to the number of cards being searched.
+The Bass	ChristmasTown	the_bass	Character	1	Rare	
+The best I can	Premiere	the_best_i_can	Surprises	1	Uncommon	
+The Courtyard	ChristmasTown	the_courtyard	Locale	6	Rare	FUNCTION: Draw 2 Cards and Add 3p
+The Crypt	Premiere	the_crypt	Locale	3	Uncommon	FUNCTION: Draw 4 Cards
+The Dark Wood	ChristmasTown	the_dark_wood	Locale	3	Common	FUNCTION: Draw 3 Cards OR Add 3p OR Move 3 Cards
+The Fountain	Premiere	the_fountain	Locale	4	Rare	FUNCTION: Search 3, 1 Character and Add 3p
+The Graveyard	Premiere	the_graveyard	Locale	2	Uncommon	FUNCTION: Search Discard Pile, 1 Card
+The Hangar	ChristmasTown	the_hangar	Locale	3	Common	BONUS: Whenever you play a Character to an empty Locale, Draw 1 Card.
+The Laboratory	Premiere	the_laboratory	Locale	3	Uncommon	FUNCTION: Search 5, 1 Creation and Add 3p
+The Mayor - Elected Official	Premiere	mayor1	Character	2	Common	
+The Mayor - Excitable Politician	ChristmasTown	mayor3	Character	2	Common	
+The Mayor - Lugubrious Leader	Premiere	mayor2	Character	2	Rare	
+The Observatory	ChristmasTown	the_observatory	Locale	2	Common	FUNCTION: Draw 3 Cards and Move 1 Card
+The Rat	ChristmasTown	the_rat	Character	1	Rare	
+The Tree House	Premiere	the_tree_house	Locale	3	Uncommon	FUNCTION: Draw 3 Cards and Add 1p
+The Well	Premiere	the_well	Locale	1	Common	FUNCTION: Move 6 Cards
+This is Halloween!	Premiere	this_is_halloween	Surprises	1	Rare	
+Three of a Kind	Premiere	three_of_a_kind	Surprises	2	Common	
+Throw me a bone	Premiere	throw_me_a_bone	Surprises	1	Common	
+Timmy the Elf	ChristmasTown	timmy	Character	0	Rare	
+Town Center	ChristmasTown	town_center	Locale	4	Uncommon	BONUS: Whenever you perform a Function, Draw 1 Card.
+Town Hall	Premiere	town_hall	Locale	3	Uncommon	FUNCTION: Draw 1 Card and Add 3p
+Town Meeting!	Premiere	town_meeting	Surprises	1	Uncommon	
+Town Square	Premiere	town_square	Locale	4	Common	FUNCTION: Add 4p
+Toy Factory	ChristmasTown	toy_factory	Locale	6	Rare	BONUS: All of your Creations are -1 Cost. (Minimum Cost per Creation = 1)
+Tree Circle	Premiere	tree_circle	Locale	3	Uncommon	FUNCTION: Draw 2 Cards and Add 2p
+Trick or Treat!	ChristmasTown	trick_or_treat	Surprises	1	Rare	
+Tub of Terror	Premiere	tub_of_terror	Surprises	1	Rare	
+Twilight Sun	Premiere	twilight_sun	Surprises	2	Rare	
+Undead Duck	Premiere	undead_duck	Creations	4	Rare	
+Undersea Gal	Premiere	undersea_gal	Character	2	Uncommon	
+Uninvited Guest	ChristmasTown	uninvited_guest	Surprises	0	Rare	
+Vampire Baron	Premiere	vampire_baron	Character	*	Uncommon	
+Vampire Count	Premiere	vampire_count	Character	*	Uncommon	
+Vampire Lord	Premiere	vampire_lord	Character	*	Uncommon	
+Vampire Prince	Premiere	vampire_prince	Character	*	Rare	
+We Bagged Him!	ChristmasTown	we_bagged_him	Surprises	6	Rare	
+We Did It!	ChristmasTown	we_did_it	Surprises	1	Uncommon	
+Weary Willy	ChristmasTown	weary_willy	Character	0	Common	
+We've got to find Jack!	ChristmasTown	weve_got_to_find_jack	Surprises	0	Promo Card	
+What a Night!	ChristmasTown	what_a_night	Surprises	0	Common	
+What Have I Done?	Premiere	what_have_i_done	Surprises	1	Uncommon	
+What's This?	ChristmasTown	whats_this	Surprises	1	Ultra-Rare	
+Wheel of Torture	Premiere	wheel_of_torture	Surprises	0	Ultra-Rare	
+Where is he?	ChristmasTown	where_is_he	Surprises	1	Common	
+Winged Demon	Premiere	winged_demon	Character	1	Rare	
+Witch Hazel	ChristmasTown	witch_hazel	Surprises	0	Rare	
+Witches' Nook	Premiere	witches_nook	Locale	1	Common	FUNCTION: Search 6, Surprises
+Without a Trace	ChristmasTown	without_a_trace	Surprises	1	Common	
+Wolf Shadow	ChristmasTown	wolf_shadow	Character	3	Rare	
+Wolfman	Premiere	wolfman	Character	2	Uncommon	
+Worm's Wart	ChristmasTown	worms_wart	Surprises	0	Rare	
+Worthy Accomplice	ChristmasTown	worthy_accomplice	Surprises	1	Rare	
+Wreath of Wrath	Premiere	wreath_of_wrath	Creations	5	Rare	
+Zero	Premiere	zero	Character	0	Uncommon	
+Zero - Pale Retriever	ChristmasTown	zero2	Character	0	Rare	
+Zero's Doghouse	ChristmasTown	zeros_doghouse	Locale	2	Promo Card	FUNCTION: Draw 2 Cards, Add 1p and Move 1 Card. If Zero is here, Zero’s Doghouse is considered Active.
