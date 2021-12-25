@@ -55,8 +55,8 @@ ChristmasTown/doll_factory.jpg	https://raw.githubusercontent.com/wishmstr/Nightm
 ChristmasTown/domain_of_shadows.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/ChristmasTown/domain_of_shadows.jpg
 Premiere/double_dead.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/Premiere/double_dead.jpg
 Premiere/finklestein1.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/Premiere/finklestein1.jpg
-ChristmasTown/finklestein2.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/ChristmasTown/finklestein2.jpg
-Premiere/finklestein3.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/Premiere/finklestein3.jpg
+ChristmasTown/finklestein3.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/ChristmasTown/finklestein3.jpg
+Premiere/finklestein2.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/Premiere/finklestein2.jpg
 ChristmasTown/droopy_cane.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/ChristmasTown/droopy_cane.jpg
 Premiere/eager_anaconda.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/Premiere/eager_anaconda.jpg
 Premiere/easter_bunny.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/Premiere/easter_bunny.jpg
