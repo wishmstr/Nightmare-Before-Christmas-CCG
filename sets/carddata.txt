@@ -55,8 +55,8 @@ Doll Factory	ChristmasTown	doll_factory	Locale	3	Uncommon	BONUS: Whenever you pl
 Domain of Shadows	ChristmasTown	domain_of_shadows	Surprises	1	Rare	
 Double Dead	Premiere	double_dead	Surprises	0	Common	
 Dr. Finklestein - Brainy Inventor	Premiere	finklestein1	Character	2	Ultra-Rare	
-Dr. Finklestein - Desperate Lover	ChristmasTown	finklestein2	Character	2	Rare	
-Dr. Finklestein - Mad Scientist	Premiere	finklestein3	Character	2	Common	
+Dr. Finklestein - Desperate Lover	Premiere	finklestein2	Character	2	Rare	
+Dr. Finklestein - Mad Scientist	ChristmasTown	finklestein3	Character	2	Common	
 Droopy Cane	ChristmasTown	droopy_cane	Creations	1	Uncommon	
 Eager Anaconda	Premiere	eager_anaconda	Creations	5	Rare	
 Easter Bunny	Premiere	easter_bunny	Character	-1	Rare	
