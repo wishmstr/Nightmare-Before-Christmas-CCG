@@ -1,0 +1,143 @@
+<plugin>
+
+//---------->GLOBAL STATS<----------//
+// 1-Days Until Christmas
+
+<globalstat>
+	<label>Days Until Christmas</label>
+	<initialvalue>12</initialvalue>
+</globalstat>
+
+//---------->Deck Zones<---------//
+// 1 - Deck
+// 2 - Locale
+// 3 - Starting Locale
+
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Locale</label>
+</deckzone>
+
+<deckzone>
+	<label>Starting Locale</label>
+</deckzone>
+
+//---------->Game Zones<---------//
+// 1 - Hand
+// 2 - Deck
+// 3 - Discard
+// 4 - Locale
+// 5 - Starting Locale
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
+
+<gamezone>
+	<label>Deck</label>
+</gamezone>
+
+<gamezone>
+	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
+
+<gamezone>
+	<label>Locale</label>
+</gamezone>
+
+<gamezone>
+	<label>Starting Locale</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
+
+//---------->Phases<---------//
+<phase><label>Start Phase</label></phase>
+<phase><label>...A - Remove Day Counter</label></phase>
+<phase><label>...B - Place new Locales</label></phase>
+<phase><label>...C - Pumpkin King Activity</label></phase>
+<phase><label>Player Turn Phase</label></phase>
+<phase><label>...A - Perform 1 Function</label></phase>
+<phase><label>...B - Play Cards</label></phase>
+<phase><label>End Phase</label></phase>
+<phase><label>...A - Empty Pumpkin Points</label></phase>
+<phase><label>...B - Reimburse Surprise Cards</label></phase>
+<phase><label>...C - Remove Hex Counters</label></phase>
+<phase><label>...D - Discard Down to 7 Cards</label></phase>
+<phase><label>...E - Recycle Empty Main Decks</label></phase>
+<phase><label>...F - Rotate Pumpkin King</label></phase>
+
+//---------->GENERAL FUNCTIONS(11)<----------//
+// 1 - Draw a single card into Hand
+// 2 - Ready All
+// 3 - Play New Locale
+
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Ready All</label>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Play New Locale</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Locale</sourcegamezone>
+	<destinationowner>table</destinationowner>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+//---------->CARD FUNCTIONS(12)<----------//
+// 1 - Tap
+// 2 - Untap
+// 3 - Add Green Counter
+// 4 - Remove Green Counter
+// 5 - Add Red Counter (Active Shield)
+// 6 - Remove Red Counter (Deactivate Shield)
+
+<cardfunction>
+	<label>Tap</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+</cardfunction>
+<cardfunction>
+	<label>Untap</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+</cardfunction>
+<cardfunction>
+	<label>Green+1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.75</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+<cardfunction>
+	<label>Green-1</label>
+	<kind>REMOVECOUNTERGREEN</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Red+1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.25</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+<cardfunction>
+	<label>Red-1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+</plugin>
