@@ -7,9 +7,13 @@ plugins/NightmareBeforeChristmas/nightmare_rulebook.pdf	https://raw.githubuserco
 plugins/NightmareBeforeChristmas/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/CardImageURLs1.txt	4383037
 plugins/NightmareBeforeChristmas/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/carddata.txt	5016095
 plugins/NightmareBeforeChristmas/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/general/cardback.jpg	129059
+plugins/NightmareBeforeChristmas/decks/King_of_the_Pumpkin_Patch.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/King_of_the_Pumpkin_Patch.dek	432120
+plugins/NightmareBeforeChristmas/decks/Mrs_Claus_Pie_Factory.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Mrs_Claus_Pie_Factory.dek	443284
 plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_Dr_Finklestein.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_Dr_Finklestein.dek	357870
 plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_Jack_Skellington.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_Jack_Skellington.dek	359611
 plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_Oogie_Boogie.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_Oogie_Boogie.dek	365417
 plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_The_Mayor.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_The_Mayor.dek	360878
+plugins/NightmareBeforeChristmas/decks/The_Minion_Engine.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/The_Minion_Engine.dek	378628
+plugins/NightmareBeforeChristmas/decks/Weapons_of_Mass_Destruction.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Weapons_of_Mass_Destruction.dek	387886
 CardURLFiles:		
 CardImageURLs1.txt		
