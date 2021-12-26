@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>NightmareBeforeChristmas</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="lock1">Lock - Little Devil</name><set>Premiere</set></card>
+		<card><name id="lock1">Lock - Little Devil</name><set>Premiere</set></card>
+		<card><name id="lock1">Lock - Little Devil</name><set>Premiere</set></card>
+		<card><name id="shock1">Shock - Little Hag</name><set>Premiere</set></card>
+		<card><name id="shock1">Shock - Little Hag</name><set>Premiere</set></card>
+		<card><name id="shock1">Shock - Little Hag</name><set>Premiere</set></card>
+		<card><name id="barrel1">Barrel - Little Skeleton</name><set>Premiere</set></card>
+		<card><name id="barrel1">Barrel - Little Skeleton</name><set>Premiere</set></card>
+		<card><name id="barrel1">Barrel - Little Skeleton</name><set>Premiere</set></card>
+		<card><name id="igor">Igor</name><set>Premiere</set></card>
+		<card><name id="igor">Igor</name><set>Premiere</set></card>
+		<card><name id="decomposing_guy">Decomposing Guy</name><set>Premiere</set></card>
+		<card><name id="harlequin_demon">Harlequin Demon</name><set>Premiere</set></card>
+		<card><name id="wolfman">Wolfman</name><set>Premiere</set></card>
+		<card><name id="delightful_hat">Delightful Hat</name><set>Premiere</set></card>
+		<card><name id="delightful_hat">Delightful Hat</name><set>Premiere</set></card>
+		<card><name id="jumbo_treat_bag">Jumbo Treat Bag</name><set>Premiere</set></card>
+		<card><name id="jumbo_treat_bag">Jumbo Treat Bag</name><set>Premiere</set></card>
+		<card><name id="oogies_dice">Oogie&apos;s Dice</name><set>Premiere</set></card>
+		<card><name id="oogies_dice">Oogie&apos;s Dice</name><set>Premiere</set></card>
+		<card><name id="road_kill">Road Kill</name><set>Premiere</set></card>
+		<card><name id="road_kill">Road Kill</name><set>Premiere</set></card>
+		<card><name id="skeletal_reindeer">Skeletal Reindeer</name><set>Premiere</set></card>
+		<card><name id="skeletal_reindeer">Skeletal Reindeer</name><set>Premiere</set></card>
+		<card><name id="three_of_a_kind">Three of a Kind</name><set>Premiere</set></card>
+		<card><name id="three_of_a_kind">Three of a Kind</name><set>Premiere</set></card>
+		<card><name id="master_the_plans">Master! The Plans!</name><set>Premiere</set></card>
+		<card><name id="master_the_plans">Master! The Plans!</name><set>Premiere</set></card>
+		<card><name id="i_told_you">I told you!</name><set>Premiere</set></card>
+		<card><name id="i_wanna_do_it">I wanna do it!</name><set>Premiere</set></card>
+		<card><name id="im_not_the_dumb_one">I&apos;m not the dumb one</name><set>Premiere</set></card>
+		<card><name id="making_christmas">Making Christmas</name><set>Premiere</set></card>
+		<card><name id="im_the_boogie_man">I&apos;m the Boogie Man!</name><set>Premiere</set></card>
+		<card><name id="the_best_i_can">The best I can</name><set>Premiere</set></card>
+		<card><name id="finklestein1">Dr. Finklestein - Mad Scientist</name><set>Premiere</set></card>
+		<card><name id="finklestein1">Dr. Finklestein - Mad Scientist</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Locale">
+		<card><name id="back_alley">Back Alley</name><set>Premiere</set></card>
+		<card><name id="castle_finklestein">Castle Finklestein</name><set>Premiere</set></card>
+		<card><name id="the_laboratory">The Laboratory</name><set>Premiere</set></card>
+		<card><name id="the_tree_house">The Tree House</name><set>Premiere</set></card>
+		<card><name id="the_well">The Well</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting Locale">
+		<card><name id="oogies_lair">Oogie&apos;s Lair</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Player Aids">
+		<card><name id="pumpkin_points">Pumpkin Points</name><set>PlayerAids</set></card>
+		<card><name id="pumpkin_king">Pumpkin King</name><set>PlayerAids</set></card>
+	</superzone>
+</deck>

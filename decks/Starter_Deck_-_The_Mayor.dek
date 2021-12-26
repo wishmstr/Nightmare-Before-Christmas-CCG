@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>NightmareBeforeChristmas</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="mayor1">The Mayor - Elected Official</name><set>Premiere</set></card>
+		<card><name id="mayor1">The Mayor - Elected Official</name><set>Premiere</set></card>
+		<card><name id="mayor1">The Mayor - Elected Official</name><set>Premiere</set></card>
+		<card><name id="mayor1">The Mayor - Elected Official</name><set>Premiere</set></card>
+		<card><name id="accordion_player">Accordion Player</name><set>Premiere</set></card>
+		<card><name id="accordion_player">Accordion Player</name><set>Premiere</set></card>
+		<card><name id="bass_player">Bass Player</name><set>Premiere</set></card>
+		<card><name id="bass_player">Bass Player</name><set>Premiere</set></card>
+		<card><name id="sax_player">Sax Player</name><set>Premiere</set></card>
+		<card><name id="sax_player">Sax Player</name><set>Premiere</set></card>
+		<card><name id="lock1">Lock - Little Devil</name><set>Premiere</set></card>
+		<card><name id="lock1">Lock - Little Devil</name><set>Premiere</set></card>
+		<card><name id="shock1">Shock - Little Hag</name><set>Premiere</set></card>
+		<card><name id="shock1">Shock - Little Hag</name><set>Premiere</set></card>
+		<card><name id="barrel1">Barrel - Little Skeleton</name><set>Premiere</set></card>
+		<card><name id="barrel1">Barrel - Little Skeleton</name><set>Premiere</set></card>
+		<card><name id="mr_hyde">Mr. Hyde</name><set>Premiere</set></card>
+		<card><name id="harlequin_demon">Harlequin Demon</name><set>Premiere</set></card>
+		<card><name id="jack3">Jack Skellington - The Pumpkin King</name><set>Premiere</set></card>
+		<card><name id="wolfman">Wolfman</name><set>Premiere</set></card>
+		<card><name id="jingle_bells">Jingle Bells</name><set>Premiere</set></card>
+		<card><name id="jingle_bells">Jingle Bells</name><set>Premiere</set></card>
+		<card><name id="jumbo_treat_bag">Jumbo Treat Bag</name><set>Premiere</set></card>
+		<card><name id="jumbo_treat_bag">Jumbo Treat Bag</name><set>Premiere</set></card>
+		<card><name id="delightful_hat">Delightful Hat</name><set>Premiere</set></card>
+		<card><name id="delightful_hat">Delightful Hat</name><set>Premiere</set></card>
+		<card><name id="scorpion_surprise">Scorpion Surprise</name><set>Premiere</set></card>
+		<card><name id="scorpion_surprise">Scorpion Surprise</name><set>Premiere</set></card>
+		<card><name id="takeoff_ramp">Takeoff Ramp</name><set>Premiere</set></card>
+		<card><name id="takeoff_ramp">Takeoff Ramp</name><set>Premiere</set></card>
+		<card><name id="hitch_a_ride">Hitch a Ride</name><set>Premiere</set></card>
+		<card><name id="hitch_a_ride">Hitch a Ride</name><set>Premiere</set></card>
+		<card><name id="public_transportation">Public Transportation</name><set>Premiere</set></card>
+		<card><name id="public_transportation">Public Transportation</name><set>Premiere</set></card>
+		<card><name id="town_meeting">Town Meeting!</name><set>Premiere</set></card>
+		<card><name id="town_meeting">Town Meeting!</name><set>Premiere</set></card>
+		<card><name id="halloween_plans">Halloween Plans</name><set>Premiere</set></card>
+		<card><name id="halloween_plans">Halloween Plans</name><set>Premiere</set></card>
+		<card><name id="moody_mayor">Moody Mayor</name><set>Premiere</set></card>
+		<card><name id="moody_mayor">Moody Mayor</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Locale">
+		<card><name id="the_tree_house">The Tree House</name><set>Premiere</set></card>
+		<card><name id="town_hall">Town Hall</name><set>Premiere</set></card>
+		<card><name id="back_alley">Back Alley</name><set>Premiere</set></card>
+		<card><name id="tree_circle">Tree Circle</name><set>Premiere</set></card>
+		<card><name id="town_square">Town Square</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting Locale">
+		<card><name id="mayor-mobile">Mayor-mobile</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Player Aids">
+		<card><name id="pumpkin_king">Pumpkin King</name><set>PlayerAids</set></card>
+		<card><name id="pumpkin_points">Pumpkin Points</name><set>PlayerAids</set></card>
+	</superzone>
+</deck>

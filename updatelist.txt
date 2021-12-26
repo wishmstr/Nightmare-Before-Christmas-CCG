@@ -1,11 +1,15 @@
-NightmareBeforeChristmas	12-25-21
-plugins/NightmareBeforeChristmas/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/plugininfo.txt	278626
-plugins/NightmareBeforeChristmas/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/pluginpreferences.txt	286665
-plugins/NightmareBeforeChristmas/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/defaultchat.txt	2295
+NightmareBeforeChristmas	12-26-21
+plugins/NightmareBeforeChristmas/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/plugininfo.txt	291043
+plugins/NightmareBeforeChristmas/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/pluginpreferences.txt	274193
+plugins/NightmareBeforeChristmas/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/defaultchat.txt	3355
 plugins/NightmareBeforeChristmas/christmastown_rules.pdf	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/christmastown_rules.pdf	587205
 plugins/NightmareBeforeChristmas/nightmare_rulebook.pdf	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/nightmare_rulebook.pdf	-67087164
-plugins/NightmareBeforeChristmas/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/CardImageURLs1.txt	4353234
-plugins/NightmareBeforeChristmas/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/carddata.txt	1870236
+plugins/NightmareBeforeChristmas/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/CardImageURLs1.txt	4383037
+plugins/NightmareBeforeChristmas/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/carddata.txt	5016095
 plugins/NightmareBeforeChristmas/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/general/cardback.jpg	129059
-CardURLFiles:
-CardImageURLs1.txt
+plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_Dr_Finklestein.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_Dr_Finklestein.dek	357870
+plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_Jack_Skellington.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_Jack_Skellington.dek	359611
+plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_Oogie_Boogie.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_Oogie_Boogie.dek	365417
+plugins/NightmareBeforeChristmas/decks/Starter_Deck_-_The_Mayor.dek	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/decks/Starter_Deck_-_The_Mayor.dek	360878
+CardURLFiles:		
+CardImageURLs1.txt		

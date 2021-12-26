@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>NightmareBeforeChristmas</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="igor">Igor</name><set>Premiere</set></card>
+		<card><name id="igor">Igor</name><set>Premiere</set></card>
+		<card><name id="igor">Igor</name><set>Premiere</set></card>
+		<card><name id="jack3">Jack Skellington - The Pumpkin King</name><set>Premiere</set></card>
+		<card><name id="jack3">Jack Skellington - The Pumpkin King</name><set>Premiere</set></card>
+		<card><name id="sally1">Sally - Shy Creature</name><set>Premiere</set></card>
+		<card><name id="sally1">Sally - Shy Creature</name><set>Premiere</set></card>
+		<card><name id="wolfman">Wolfman</name><set>Premiere</set></card>
+		<card><name id="wolfman">Wolfman</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_mom">Corpse Mom</name><set>Premiere</set></card>
+		<card><name id="corpse_mom">Corpse Mom</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="decomposing_guy">Decomposing Guy</name><set>Premiere</set></card>
+		<card><name id="skeletal_reindeer">Skeletal Reindeer</name><set>Premiere</set></card>
+		<card><name id="skeletal_reindeer">Skeletal Reindeer</name><set>Premiere</set></card>
+		<card><name id="fender_bender">Fender Bender</name><set>Premiere</set></card>
+		<card><name id="fender_bender">Fender Bender</name><set>Premiere</set></card>
+		<card><name id="scary_teddy">Scary Teddy</name><set>Premiere</set></card>
+		<card><name id="scary_teddy">Scary Teddy</name><set>Premiere</set></card>
+		<card><name id="road_kill">Road Kill</name><set>Premiere</set></card>
+		<card><name id="road_kill">Road Kill</name><set>Premiere</set></card>
+		<card><name id="sandy_claws_outfit">Sandy Claws Outfit</name><set>Premiere</set></card>
+		<card><name id="sandy_claws_outfit">Sandy Claws Outfit</name><set>Premiere</set></card>
+		<card><name id="thats_our_job">That&apos;s our Job</name><set>Premiere</set></card>
+		<card><name id="thats_our_job">That&apos;s our Job</name><set>Premiere</set></card>
+		<card><name id="organ_donor">Organ Donor</name><set>Premiere</set></card>
+		<card><name id="organ_donor">Organ Donor</name><set>Premiere</set></card>
+		<card><name id="master_the_plans">Master! The Plans!</name><set>Premiere</set></card>
+		<card><name id="master_the_plans">Master! The Plans!</name><set>Premiere</set></card>
+		<card><name id="mad_genius">Mad Genius</name><set>Premiere</set></card>
+		<card><name id="mad_genius">Mad Genius</name><set>Premiere</set></card>
+		<card><name id="i_never_realized">I never realized</name><set>Premiere</set></card>
+		<card><name id="making_christmas">Making Christmas</name><set>Premiere</set></card>
+		<card><name id="finklestein1">Dr. Finklestein - Mad Scientist</name><set>Premiere</set></card>
+		<card><name id="finklestein1">Dr. Finklestein - Mad Scientist</name><set>Premiere</set></card>
+		<card><name id="finklestein1">Dr. Finklestein - Mad Scientist</name><set>Premiere</set></card>
+		<card><name id="finklestein1">Dr. Finklestein - Mad Scientist</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Locale">
+		<card><name id="sallys_room">Sally&apos;s Room</name><set>Premiere</set></card>
+		<card><name id="tree_circle">Tree Circle</name><set>Premiere</set></card>
+		<card><name id="the_laboratory">The Laboratory</name><set>Premiere</set></card>
+		<card><name id="back_alley">Back Alley</name><set>Premiere</set></card>
+		<card><name id="town_square">Town Square</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting Locale">
+		<card><name id="finklestein_hall">Finklestein Hall</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Player Aids">
+		<card><name id="pumpkin_points">Pumpkin Points</name><set>PlayerAids</set></card>
+		<card><name id="pumpkin_king">Pumpkin King</name><set>PlayerAids</set></card>
+	</superzone>
+</deck>

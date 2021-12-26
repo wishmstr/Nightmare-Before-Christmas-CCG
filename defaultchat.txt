@@ -2,7 +2,7 @@
 Good Game
 .
 .
-.
+!Reset Day!/=12
 .
 .
 .

@@ -26,6 +26,10 @@
 	<label>Starting Locale</label>
 </deckzone>
 
+<deckzone>
+	<label>Player Aids</label>
+</deckzone>
+
 //---------->Game Zones<---------//
 // 1 - Hand
 // 2 - Deck
@@ -56,6 +60,10 @@
 	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
+<gamezone>
+	<label>Player Aids</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
 //---------->Phases<---------//
 <phase><label>Start Phase</label></phase>
 <phase><label>...A - Remove Day Counter</label></phase>
