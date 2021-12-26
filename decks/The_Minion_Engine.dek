@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>NightmareBeforeChristmas</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="behemoth">Behemoth</name><set>Premiere</set></card>
+		<card><name id="big_witch">Big Witch</name><set>Premiere</set></card>
+		<card><name id="clown">Clown</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="devil">Devil</name><set>Premiere</set></card>
+		<card><name id="finklestein3">Dr. Finklestein - Desperate Lover</name><set>ChristmasTown</set></card>
+		<card><name id="finklestein3">Dr. Finklestein - Desperate Lover</name><set>ChristmasTown</set></card>
+		<card><name id="hanging_tree">Hanging Tree</name><set>Premiere</set></card>
+		<card><name id="harlequin_demon">Harlequin Demon</name><set>Premiere</set></card>
+		<card><name id="jack4">Jack Skellington - Explorer of Unknown Realms</name><set>ChristmasTown</set></card>
+		<card><name id="monster_under_bed">Monster Under the Bed</name><set>Premiere</set></card>
+		<card><name id="monster_under_stairs">Monster Under the Stairs</name><set>Premiere</set></card>
+		<card><name id="oogie4">Oogie Boogie - Voracious Villain</name><set>ChristmasTown</set></card>
+		<card><name id="oogie4">Oogie Boogie - Voracious Villain</name><set>ChristmasTown</set></card>
+		<card><name id="oogie4">Oogie Boogie - Voracious Villain</name><set>ChristmasTown</set></card>
+		<card><name id="reaper">Reaper</name><set>Premiere</set></card>
+		<card><name id="sally3">Sally - Restless Spirit</name><set>ChristmasTown</set></card>
+		<card><name id="sally3">Sally - Restless Spirit</name><set>ChristmasTown</set></card>
+		<card><name id="siamese_shadow">Siamese Shadow</name><set>ChristmasTown</set></card>
+		<card><name id="mayor3">The Mayor - Excitable Politician</name><set>ChristmasTown</set></card>
+		<card><name id="mayor3">The Mayor - Excitable Politician</name><set>ChristmasTown</set></card>
+		<card><name id="mayor3">The Mayor - Excitable Politician</name><set>ChristmasTown</set></card>
+		<card><name id="undersea_gal">Undersea Gal</name><set>Premiere</set></card>
+		<card><name id="undersea_gal">Undersea Gal</name><set>Premiere</set></card>
+		<card><name id="vampire_baron">Vampire Baron</name><set>Premiere</set></card>
+		<card><name id="vampire_baron">Vampire Baron</name><set>Premiere</set></card>
+		<card><name id="vampire_count">Vampire Count</name><set>Premiere</set></card>
+		<card><name id="vampire_count">Vampire Count</name><set>Premiere</set></card>
+		<card><name id="vampire_lord">Vampire Lord</name><set>Premiere</set></card>
+		<card><name id="vampire_prince">Vampire Prince</name><set>Premiere</set></card>
+		<card><name id="wolf_shadow">Wolf Shadow</name><set>ChristmasTown</set></card>
+		<card><name id="wolfman">Wolfman</name><set>Premiere</set></card>
+		<card><name id="im_the_boogie_man">I&apos;m the Boogie Man!</name><set>Premiere</set></card>
+		<card><name id="im_the_boogie_man">I&apos;m the Boogie Man!</name><set>Premiere</set></card>
+		<card><name id="im_the_boogie_man">I&apos;m the Boogie Man!</name><set>Premiere</set></card>
+		<card><name id="this_is_halloween">This is Halloween!</name><set>Premiere</set></card>
+		<card><name id="this_is_halloween">This is Halloween!</name><set>Premiere</set></card>
+		<card><name id="this_is_halloween">This is Halloween!</name><set>Premiere</set></card>
+		<card><name id="this_is_halloween">This is Halloween!</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Locale">
+		<card><name id="castle_finklestein">Castle Finklestein</name><set>Premiere</set></card>
+		<card><name id="sewing_hut">Sewing Hut</name><set>ChristmasTown</set></card>
+		<card><name id="the_courtyard">The Courtyard</name><set>ChristmasTown</set></card>
+		<card><name id="town_hall">Town Hall</name><set>Premiere</set></card>
+		<card><name id="tree_circle">Tree Circle</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting Locale">
+		<card><name id="mayor-mobile">Mayor-mobile</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Player Aids">
+		<card><name id="pumpkin_points">Pumpkin Points</name><set>PlayerAids</set></card>
+		<card><name id="pumpkin_king">Pumpkin King</name><set>PlayerAids</set></card>
+	</superzone>
+</deck>

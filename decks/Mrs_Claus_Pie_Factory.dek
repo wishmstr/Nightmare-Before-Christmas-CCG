@@ -1,0 +1,71 @@
+<deck version="0.8">
+	<meta>
+		<game>NightmareBeforeChristmas</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="jack5">Jack Skellington - Motivational Spooker</name><set>ChristmasTown</set></card>
+		<card><name id="the_bass">The Bass</name><set>ChristmasTown</set></card>
+		<card><name id="accordion_player">Accordion Player</name><set>Premiere</set></card>
+		<card><name id="bass_player">Bass Player</name><set>Premiere</set></card>
+		<card><name id="sax_player">Sax Player</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_mom">Corpse Mom</name><set>Premiere</set></card>
+		<card><name id="mayor2">The Mayor - Lugubrious Leader</name><set>Premiere</set></card>
+		<card><name id="mayor2">The Mayor - Lugubrious Leader</name><set>Premiere</set></card>
+		<card><name id="monster_under_bed">Monster Under the Bed</name><set>Premiere</set></card>
+		<card><name id="sally3">Sally - Restless Spirit</name><set>ChristmasTown</set></card>
+		<card><name id="finklestein3">Dr. Finklestein - Desperate Lover</name><set>ChristmasTown</set></card>
+		<card><name id="black_cat">Black Cat</name><set>Premiere</set></card>
+		<card><name id="decomposing_guy">Decomposing Guy</name><set>Premiere</set></card>
+		<card><name id="hanging_tree">Hanging Tree</name><set>Premiere</set></card>
+		<card><name id="mrs_claus">Mrs. Claus</name><set>ChristmasTown</set></card>
+		<card><name id="mrs_claus">Mrs. Claus</name><set>ChristmasTown</set></card>
+		<card><name id="eddy">Eddy the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="eddy">Eddy the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="suzy">Suzy the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="suzy">Suzy the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="nelly">Nelly the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="nelly">Nelly the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="languid_larry">Languid Larry</name><set>ChristmasTown</set></card>
+		<card><name id="weary_willy">Weary Willy</name><set>ChristmasTown</set></card>
+		<card><name id="barry">Barry the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="chucky">Chucky the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="iggy">Iggy the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="pauly">Pauly the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="timmy">Timmy the Elf</name><set>ChristmasTown</set></card>
+		<card><name id="christmas_tree_bats">Christmas Tree Bats</name><set>Premiere</set></card>
+		<card><name id="road_kill">Road Kill</name><set>Premiere</set></card>
+		<card><name id="jingle_bells">Jingle Bells</name><set>Premiere</set></card>
+		<card><name id="here_comes_sandy">Here Comes Sandy Claws</name><set>ChristmasTown</set></card>
+		<card><name id="eager_anaconda">Eager Anaconda</name><set>Premiere</set></card>
+		<card><name id="takeoff_ramp">Takeoff Ramp</name><set>Premiere</set></card>
+		<card><name id="sandy_claws_outfit">Sandy Claws Outfit</name><set>Premiere</set></card>
+		<card><name id="christmas_casket">Christmas Casket</name><set>Premiere</set></card>
+		<card><name id="halloweentown_gates">Halloweentown Gates</name><set>Premiere</set></card>
+		<card><name id="bone_daddy">Bone Daddy</name><set>ChristmasTown</set></card>
+		<card><name id="christmas_town_gates">Christmas Town Gates</name><set>ChristmasTown</set></card>
+		<card><name id="choo_choo_train">Choo Choo Train</name><set>ChristmasTown</set></card>
+		<card><name id="subordinate_claus">Subordinate Claus</name><set>ChristmasTown</set></card>
+		<card><name id="subordinate_claus">Subordinate Claus</name><set>ChristmasTown</set></card>
+		<card><name id="subordinate_claus">Subordinate Claus</name><set>ChristmasTown</set></card>
+		<card><name id="how_dare_you">How dare you!</name><set>ChristmasTown</set></card>
+		<card><name id="sound_the_alarms">Sound the Alarms!</name><set>ChristmasTown</set></card>
+	</superzone>
+	<superzone name="Locale">
+		<card><name id="town_square">Town Square</name><set>Premiere</set></card>
+		<card><name id="the_courtyard">The Courtyard</name><set>ChristmasTown</set></card>
+		<card><name id="the_bakery">The Bakery</name><set>ChristmasTown</set></card>
+		<card><name id="cookie_factory">Cookie Factory</name><set>ChristmasTown</set></card>
+		<card><name id="elven_bedchamber">Elven Bedchamber</name><set>ChristmasTown</set></card>
+	</superzone>
+	<superzone name="Starting Locale">
+		<card><name id="oogies_lair">Oogie&apos;s Lair</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Player Aids">
+		<card><name id="pumpkin_points">Pumpkin Points</name><set>PlayerAids</set></card>
+		<card><name id="pumpkin_king">Pumpkin King</name><set>PlayerAids</set></card>
+	</superzone>
+</deck>

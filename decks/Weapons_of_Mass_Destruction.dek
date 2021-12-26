@@ -1,0 +1,66 @@
+<deck version="0.8">
+	<meta>
+		<game>NightmareBeforeChristmas</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="oogie1">Oogie Boogie - Meanest Guy Around</name><set>Premiere</set></card>
+		<card><name id="clown">Clown</name><set>Premiere</set></card>
+		<card><name id="clown">Clown</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_mom">Corpse Mom</name><set>Premiere</set></card>
+		<card><name id="corpse_mom">Corpse Mom</name><set>Premiere</set></card>
+		<card><name id="devil">Devil</name><set>Premiere</set></card>
+		<card><name id="devil">Devil</name><set>Premiere</set></card>
+		<card><name id="big_witch">Big Witch</name><set>Premiere</set></card>
+		<card><name id="hanging_tree">Hanging Tree</name><set>Premiere</set></card>
+		<card><name id="harlequin_demon">Harlequin Demon</name><set>Premiere</set></card>
+		<card><name id="little_witch">Little Witch</name><set>Premiere</set></card>
+		<card><name id="monster_under_bed">Monster Under the Bed</name><set>Premiere</set></card>
+		<card><name id="mayor2">The Mayor - Lugubrious Leader</name><set>Premiere</set></card>
+		<card><name id="undersea_gal">Undersea Gal</name><set>Premiere</set></card>
+		<card><name id="winged_demon">Winged Demon</name><set>Premiere</set></card>
+		<card><name id="wolfman">Wolfman</name><set>Premiere</set></card>
+		<card><name id="dead_head">Dead Head</name><set>Premiere</set></card>
+		<card><name id="delightful_hat">Delightful Hat</name><set>Premiere</set></card>
+		<card><name id="eager_anaconda">Eager Anaconda</name><set>Premiere</set></card>
+		<card><name id="oogies_dice">Oogie&apos;s Dice</name><set>Premiere</set></card>
+		<card><name id="scary_teddy">Scary Teddy</name><set>Premiere</set></card>
+		<card><name id="takeoff_ramp">Takeoff Ramp</name><set>Premiere</set></card>
+		<card><name id="fire">Fire!</name><set>Premiere</set></card>
+		<card><name id="fire">Fire!</name><set>Premiere</set></card>
+		<card><name id="fire">Fire!</name><set>Premiere</set></card>
+		<card><name id="fire">Fire!</name><set>Premiere</set></card>
+		<card><name id="sound_of_rollin_dice">Sound of Rollin&apos; Dice</name><set>Premiere</set></card>
+		<card><name id="sound_of_rollin_dice">Sound of Rollin&apos; Dice</name><set>Premiere</set></card>
+		<card><name id="sound_of_rollin_dice">Sound of Rollin&apos; Dice</name><set>Premiere</set></card>
+		<card><name id="sound_of_rollin_dice">Sound of Rollin&apos; Dice</name><set>Premiere</set></card>
+		<card><name id="lets_play">Let&apos;s Play!</name><set>Premiere</set></card>
+		<card><name id="lets_play">Let&apos;s Play!</name><set>Premiere</set></card>
+		<card><name id="search_lights">Search Lights</name><set>Premiere</set></card>
+		<card><name id="search_lights">Search Lights</name><set>Premiere</set></card>
+		<card><name id="gate_keeper">Gate Keeper</name><set>Premiere</set></card>
+		<card><name id="halloweentown_gates">Halloweentown Gates</name><set>Premiere</set></card>
+		<card><name id="shadow_on_the_moon">Shadow on the Moon</name><set>Premiere</set></card>
+		<card><name id="the_best_i_can">The best I can</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Locale">
+		<card><name id="back_alley">Back Alley</name><set>Premiere</set></card>
+		<card><name id="castle_finklestein">Castle Finklestein</name><set>Premiere</set></card>
+		<card><name id="the_tree_house">The Tree House</name><set>Premiere</set></card>
+		<card><name id="tree_circle">Tree Circle</name><set>Premiere</set></card>
+		<card><name id="town_square">Town Square</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting Locale">
+		<card><name id="oogies_lair">Oogie&apos;s Lair</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Player Aids">
+		<card><name id="pumpkin_points">Pumpkin Points</name><set>PlayerAids</set></card>
+		<card><name id="pumpkin_king">Pumpkin King</name><set>PlayerAids</set></card>
+	</superzone>
+</deck>

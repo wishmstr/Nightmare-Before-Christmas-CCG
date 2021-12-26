@@ -295,4 +295,4 @@ Premiere/zero.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Ch
 ChristmasTown/zero2.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/ChristmasTown/zero2.jpg
 ChristmasTown/zeros_doghouse.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/ChristmasTown/zeros_doghouse.jpg
 PlayerAids/pumpkin_king.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/PlayerAids/pumpkin_king.jpg
-PlayerAids/pumpkkin_points.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/PlayerAids/pumpkkin_points.jpg
+PlayerAids/pumpkin_points.jpg	https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages/PlayerAids/pumpkin_points.jpg

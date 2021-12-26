@@ -1,0 +1,73 @@
+<deck version="0.8">
+	<meta>
+		<game>NightmareBeforeChristmas</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="jack1">Jack Skellington - The Pumpkin King</name><set>Premiere</set></card>
+		<card><name id="jack1">Jack Skellington - The Pumpkin King</name><set>Premiere</set></card>
+		<card><name id="jack1">Jack Skellington - The Pumpkin King</name><set>Premiere</set></card>
+		<card><name id="jack1">Jack Skellington - The Pumpkin King</name><set>Premiere</set></card>
+		<card><name id="zero">Zero</name><set>Premiere</set></card>
+		<card><name id="zero">Zero</name><set>Premiere</set></card>
+		<card><name id="zero">Zero</name><set>Premiere</set></card>
+		<card><name id="sally1">Sally - Shy Creature</name><set>Premiere</set></card>
+		<card><name id="sally1">Sally - Shy Creature</name><set>Premiere</set></card>
+		<card><name id="accordion_player">Accordion Player</name><set>Premiere</set></card>
+		<card><name id="accordion_player">Accordion Player</name><set>Premiere</set></card>
+		<card><name id="bass_player">Bass Player</name><set>Premiere</set></card>
+		<card><name id="bass_player">Bass Player</name><set>Premiere</set></card>
+		<card><name id="sax_player">Sax Player</name><set>Premiere</set></card>
+		<card><name id="sax_player">Sax Player</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_dad">Corpse Dad</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_kid">Corpse Kid</name><set>Premiere</set></card>
+		<card><name id="corpse_mom">Corpse Mom</name><set>Premiere</set></card>
+		<card><name id="corpse_mom">Corpse Mom</name><set>Premiere</set></card>
+		<card><name id="black_cat">Black Cat</name><set>Premiere</set></card>
+		<card><name id="decomposing_guy">Decomposing Guy</name><set>Premiere</set></card>
+		<card><name id="igor">Igor</name><set>Premiere</set></card>
+		<card><name id="mummy_boy">Mummy Boy</name><set>Premiere</set></card>
+		<card><name id="mr_hyde">Mr. Hyde</name><set>Premiere</set></card>
+		<card><name id="mr_hyde_ii">Mr. Hyde II</name><set>Premiere</set></card>
+		<card><name id="mr_hyde_iii">Mr. Hyde III</name><set>Premiere</set></card>
+		<card><name id="christmas_tree_bats">Christmas Tree Bats</name><set>Premiere</set></card>
+		<card><name id="eager_anaconda">Eager Anaconda</name><set>Premiere</set></card>
+		<card><name id="fender_bender">Fender Bender</name><set>Premiere</set></card>
+		<card><name id="marie_antoinette">Marie Antoinette Doll</name><set>Premiere</set></card>
+		<card><name id="jingle_bells">Jingle Bells</name><set>Premiere</set></card>
+		<card><name id="road_kill">Road Kill</name><set>Premiere</set></card>
+		<card><name id="sandy_claws_outfit">Sandy Claws Outfit</name><set>Premiere</set></card>
+		<card><name id="scary_teddy">Scary Teddy</name><set>Premiere</set></card>
+		<card><name id="scorpion_surprise">Scorpion Surprise</name><set>Premiere</set></card>
+		<card><name id="fetch">Fetch</name><set>Premiere</set></card>
+		<card><name id="fetch">Fetch</name><set>Premiere</set></card>
+		<card><name id="fetch">Fetch</name><set>Premiere</set></card>
+		<card><name id="fetch">Fetch</name><set>Premiere</set></card>
+		<card><name id="deadly_nightshade">Deadly Nightshade</name><set>Premiere</set></card>
+		<card><name id="deadly_nightshade">Deadly Nightshade</name><set>Premiere</set></card>
+		<card><name id="hello_oogie">Hello, Oogie</name><set>Premiere</set></card>
+		<card><name id="hello_oogie">Hello, Oogie</name><set>Premiere</set></card>
+		<card><name id="mellow_trio">Mellow Trio</name><set>Premiere</set></card>
+		<card><name id="mellow_trio">Mellow Trio</name><set>Premiere</set></card>
+		<card><name id="my_fantasies">My Fantasies</name><set>Premiere</set></card>
+		<card><name id="my_fantasies">My Fantasies</name><set>Premiere</set></card>
+		<card><name id="halloweentown_gates">Halloweentown Gates</name><set>Premiere</set></card>
+		<card><name id="look_what_youve_done">Look what you&apos;ve done</name><set>Premiere</set></card>
+		<card><name id="pull_yourself_together">Pull Yourself Together</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Locale">
+		<card><name id="pumpkin_patch">Pumpkin Patch</name><set>Premiere</set></card>
+		<card><name id="sallys_room">Sally&apos;s Room</name><set>Premiere</set></card>
+		<card><name id="the_crypt">The Crypt</name><set>Premiere</set></card>
+		<card><name id="the_fountain">The Fountain</name><set>Premiere</set></card>
+		<card><name id="town_hall">Town Hall</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Starting Locale">
+		<card><name id="jacks_house">Jack&apos;s House</name><set>Premiere</set></card>
+	</superzone>
+	<superzone name="Player Aids">
+		<card><name id="pumpkin_points">Pumpkin Points</name><set>PlayerAids</set></card>
+		<card><name id="pumpkin_king">Pumpkin King</name><set>PlayerAids</set></card>
+	</superzone>
+</deck>
